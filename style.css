@@ -191,6 +191,14 @@ main {
         left: 0px;
     }
 
+    .container__left-items {
+        width: 100%;
+    }
+
+    .container__left-buttons {
+        width: 60%;
+    }
+
 }
 
 @media screen and (max-width: 375px) {
