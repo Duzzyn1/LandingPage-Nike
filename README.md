@@ -13,7 +13,7 @@ Funcionalidades que esse projeto deve ter:
 - Deve seguir as animações e hover passadas no protótipo do projeto.
 
 ## Onde encontrar tudo
-Desafio [DevMentor](https://www.devmentor.com.br/challenge/landing-page-tenis-nike)
+Desafio [DevMentor (Clique Aqui)](https://www.devmentor.com.br/challenge/landing-page-tenis-nike)
 
 No site você baixou os arquivos iniciais para começar o projeto com HTML, CSS e JavaScript
 
