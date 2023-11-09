@@ -216,6 +216,7 @@ main {
 
     .nav-right--link---itemMenu {
         display: block;
+        height: 25px;
     }
 
     .section__left-item--title {
